@@ -1,1 +1,3 @@
-# Facial-Recognition-
+# Facial-Recognition
+*First Project using python*
+
